@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "name": "Pizza Margherita",
+      "amt": 10.99,
+      "shop": "Pizza Palace",
+      "pic": "https://www.app.tutorjoes.in/img/food/89.jpg",
+      "ftype": "Italian",
+      "latest": false
+    },
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "amt": 8.99,
+      "shop": "Burger Bar",
+      "pic": "https://www.app.tutorjoes.in/img/food/127.jpg",
+      "ftype": "American",
+      "latest": false
+    },
+    {
+      "id": 3,
+      "name": "Sushi Platter",
+      "amt": 12.99,
+      "shop": "Sushi Express",
+      "pic": "https://www.app.tutorjoes.in/img/food/90.jpg",
+      "ftype": "Japanese",
+      "latest": true
+    },
+    {
+      "id": 4,
+      "name": "Taco Combo",
+      "amt": 7.99,
+      "shop": "Taco Haven",
+      "pic": "https://www.app.tutorjoes.in/img/food/91.jpg",
+      "ftype": "Mexican",
+      "latest": true
+    },
+    {
+      "id": 5,
+      "name": "Chicken Tikka Masala",
+      "amt": 13.99,
+      "shop": "Spice Bazaar",
+      "pic": "https://www.app.tutorjoes.in/img/food/120.jpg",
+      "ftype": "Indian",
+      "latest": false
+    },
+    {
+      "id": 6,
+      "name": "Pho Soup",
+      "amt": 9.99,
+      "shop": "Pho Noodle House",
+      "pic": "https://www.app.tutorjoes.in/img/food/121.jpg",
+      "ftype": "Vietnamese",
+      "latest": true
+    },
+    {
+      "id": 7,
+      "name": "Pad Thai",
+      "amt": 11.99,
+      "shop": "Thai Delight",
+      "pic": "https://www.app.tutorjoes.in/img/food/130.jpg",
+      "ftype": "Thai",
+      "latest": false
+    },
+    {
+      "id": 8,
+      "name": "Samosa",
+      "amt": 1.99,
+      "shop": "Taste of India",
+      "pic": "https://www.app.tutorjoes.in/img/food/140.jpg",
+      "ftype": "Indian",
+      "latest": false
+    },
+    {
+      "id": 9,
+      "name": "Fish and Chips",
+      "amt": 14.99,
+      "shop": "Fisherman's Cove",
+      "pic": "https://www.app.tutorjoes.in/img/food/99.jpg",
+      "ftype": "British",
+      "latest": false
+    },
+    {
+      "id": 10,
+      "name": "Philly Cheesesteak",
+      "amt": 10.99,
+      "shop": "Philly Grill",
+      "pic": "https://www.app.tutorjoes.in/img/food/100.jpg",
+      "ftype": "American",
+      "latest": true
+    },
+    {
+      "id": 11,
+      "name": "Falafel Wrap",
+      "amt": 6.99,
+      "shop": "Mediterranean Delight",
+      "pic": "https://www.app.tutorjoes.in/img/food/124.jpg",
+      "ftype": "Middle Eastern",
+      "latest": false
+    },
+    {
+      "id": 12,
+      "name": "Ramen Bowl",
+      "amt": 11.99,
+      "shop": "Ramen House",
+      "pic": "https://www.app.tutorjoes.in/img/food/125.jpg",
+      "ftype": "Japanese",
+      "latest": true
+    },
+    {
+      "id": 13,
+      "name": "Caesar Salad",
+      "amt": 8.99,
+      "shop": "Salad Garden",
+      "pic": "https://www.app.tutorjoes.in/img/food/110.jpg",
+      "ftype": "Salad",
+      "latest": false
+    },
+    {
+      "id": 14,
+      "name": "Margarita Pizza",
+      "amt": 12.99,
+      "shop": "Pizza Italia",
+      "pic": "https://www.app.tutorjoes.in/img/food/115.jpg",
+      "ftype": "Italian",
+      "latest": true
+    },
+    {
+      "id": 15,
+      "name": "Beef Burrito",
+      "amt": 9.99,
+      "shop": "Burrito Bar",
+      "pic": "https://www.app.tutorjoes.in/img/food/118.jpg",
+      "ftype": "Mexican",
+      "latest": false
+    }
+  ]
+  
